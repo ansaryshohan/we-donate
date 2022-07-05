@@ -1,3 +1,27 @@
 body {
   font-family: 'Lato', sans-serif;
+  
+}
+.home-page{
+  height: 100%;
+  width: 100%;
+  font-size: 24px;
+  color: azure;
+  background-image: url("images/hand-donation.jpg");
+   background-repeat: no-repeat;
+   background-size: 100% 100%; 
+   text-align: center;
+}
+h1 {
+  text-size-adjust: 30px;
+}
+strong{
+  text-size-adjust: 26px;
+  color: cadetblue;
+}
+.button{
+  background-color: tomato;
+  background-repeat: no-repeat;
+  width: 100px;
+  
 }
